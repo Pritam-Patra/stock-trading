@@ -15,3 +15,4 @@
 ## Data Sources
 
 1. Yahoo Finance
+2. Quandl
